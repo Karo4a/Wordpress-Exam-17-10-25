@@ -181,3 +181,7 @@
 2025-10-17T13:35:46+00:00 WARNING After passing through woocommerce_cart_item_images filter, image with id 79 did not have a valid thumbnail property.
 2025-10-17T13:35:47+00:00 WARNING After passing through woocommerce_cart_item_images filter, image with id 61 did not have a valid thumbnail property.
 2025-10-17T13:35:47+00:00 WARNING After passing through woocommerce_cart_item_images filter, image with id 79 did not have a valid thumbnail property.
+2025-10-17T13:37:02+00:00 WARNING After passing through woocommerce_cart_item_images filter, image with id 61 did not have a valid thumbnail property.
+2025-10-17T13:37:02+00:00 WARNING After passing through woocommerce_cart_item_images filter, image with id 79 did not have a valid thumbnail property.
+2025-10-17T13:37:03+00:00 WARNING After passing through woocommerce_cart_item_images filter, image with id 61 did not have a valid thumbnail property.
+2025-10-17T13:37:03+00:00 WARNING After passing through woocommerce_cart_item_images filter, image with id 79 did not have a valid thumbnail property.
